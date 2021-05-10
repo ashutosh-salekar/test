@@ -1,2 +1,2 @@
 # test
-This is test repository to learn git commands
+This is test repository to learn Jenkins.
